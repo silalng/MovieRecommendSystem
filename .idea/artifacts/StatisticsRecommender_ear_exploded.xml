@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="StatisticsRecommender:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/StatisticsRecommender_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StatisticsRecommender/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
